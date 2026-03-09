@@ -10,4 +10,4 @@ A little about me:
 
 A meme that captures how I currently feel about my university studies is
 
-![](https://media.tenor.com/1330OaSD6wIAAAAM/silly-propeller-hat.gif)
+![](https://media1.tenor.com/m/_KEB_d0PljQAAAAd/propeller-hat-and-lollipop-dog-lollipop-dog.gif)
