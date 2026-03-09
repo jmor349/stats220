@@ -1,12 +1,12 @@
-#  stats220
+##  **stats220 repo ☆** 
 
-This is my repo for STATS 220. 
+#### _a little about me:_ ☆
 
-A little about me:
-
-- I am undertaking a degree in chemistry, wanting to focus on analytical research
-- I am taking STATS 220 because I am interested in learning more about research and data science techniques
-- I am interested in learning about coding and using it for my major
+1.   I am undertaking a degree in **chemistry**,
+     * focusing on analytical chemistry
+     * I also enjoy the more inorganic aspects
+4.   I am taking STATS 220 because I am interested in learning more about research and data science techniques
+5.   I am interested in learning about coding and how i can apply it to my own studies
 
 A meme that captures how I currently feel about my university studies is
 
